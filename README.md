@@ -1,4 +1,4 @@
-# **URL Shortener Web Application**
+# **SnipLink**
 
 This is a Node.js web application that allows users to input a long URL and returns a shortened version. The shortened URL can be used to redirect back to the original URL.
 
